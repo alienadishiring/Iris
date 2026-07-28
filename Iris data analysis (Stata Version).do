@@ -20,7 +20,7 @@ save "C:\Users\vgdi1n20\Dropbox\Work\Iris.dta"
 
 
 ******************************************
-*3.Filter the Setosa data
+*3.Filter the Setosa data - LG
 ******************************************
 tab iris
 tab iris, nolabel
